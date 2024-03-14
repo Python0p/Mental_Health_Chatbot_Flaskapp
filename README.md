@@ -44,4 +44,4 @@ python3 app.py
 
 
 ## AI ChatBot
-![AI_Chatbot](https://github.com/Python0p/Sih_Menta_Mental_Health_Detection/assets/64919408/533bcc6c-53b3-427f-89af-126617a2df0b)
+![AI_Chatbot](static/img/Chatbot_Image.png)
