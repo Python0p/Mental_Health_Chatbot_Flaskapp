@@ -8,10 +8,10 @@ The following instructions were tested on the Windows and Linux with Python 3.8.
 1. Clone this repository
 
 ```
-git clone https://github.com/Rogendo/Mental-health-Chatbot.git
+git clone https://github.com/Python0p/Mental_Health_Chatbot_Flaskapp.git
 ```
 ```
-cd Mental-health-Chatbot/
+cd Mental_Health_Chatbot_Flaskapp/
 ```
 
 2. Create and activate virtual environment 
@@ -19,11 +19,11 @@ cd Mental-health-Chatbot/
 ```
 python -m venv venv
 ```
-on Linux system
+Activation of virtual environment on Linux system
 ```
 source venv/bin/activate
 ```
-on Windows system
+Activation of virtual environment on Windows system
 ```
 .\venv\Scripts\activate.bat
 ```
@@ -33,11 +33,15 @@ on Windows system
 pip install  -r requirements.txt
 ```
 
-4. Run the 
+4. Run the app
 ```
-flask --app app --debug run
-
+python app.py
+```
+4. If does not run then
+```
+python3 app.py
 ```
 
 
-![image](https://user-images.githubusercontent.com/62094358/221975328-2c9500a6-d551-4704-8544-e60e449bcdda.png)
+## AI ChatBot
+![AI_Chatbot](https://github.com/Python0p/Sih_Menta_Mental_Health_Detection/assets/64919408/533bcc6c-53b3-427f-89af-126617a2df0b)
