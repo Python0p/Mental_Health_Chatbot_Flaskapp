@@ -1,5 +1,4 @@
 nltk==3.8.1
-numpy==1.26.4
+numpy==1.22.2
 keras==3.0.5
-flask
-nltk
+flask==2.0.1
